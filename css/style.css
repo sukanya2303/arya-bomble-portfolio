@@ -1390,6 +1390,17 @@ nav a.active::after{
     margin-bottom: 12px;
 
 }
+.edu-card h3 span {
+    color: #fff;
+    letter-spacing: 1px;
+    padding: 0;
+
+    background: none;
+
+    border: none;
+
+    border-radius: none;
+}
 
 .edu-card p {
 
@@ -1640,6 +1651,7 @@ footer .container {
 footer p {
 
     color: #888;
+    text-align: center;
 
 }
 
